@@ -1,4 +1,4 @@
-# Cyclistic-CaseStudy_EDA
+# Cyclistic-CaseStudy
 
 
 <center>This case study is part of <a href='https://www.coursera.org/account/accomplishments/professional-cert/ZL5LM69U7EM3'><b>Google data analytics professional certificate</b></a>, exploring the business problem of a hypothetical bike-sharing service in Chicago, <b>Cyclistic</b>. The data used in this case study is sourced from Motivate International Inc under <a href='https://ride.divvybikes.com/data-license-agreement'>this agreement</a>.</center>
